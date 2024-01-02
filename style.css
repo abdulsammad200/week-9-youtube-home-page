@@ -1,0 +1,42 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+.container {
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-around;
+}
+.child1 {
+  height: 350px;
+  width: 350px;
+}
+.child2 {
+  height: 350px;
+  width: 350px;
+}
+.child3 {
+  height: 350px;
+  width: 350px;
+}
+.child4 {
+  height: 350px;
+  width: 350px;
+}
+.box1 {
+  border-radius: 50%;
+  margin-top: 8px;
+}
+
+.image {
+  display: flex;
+}
+.box2 {
+  color: rgb(57, 57, 57);
+  margin-left: 40px;
+  margin-top: 5px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+img:hover {
+  cursor: pointer;
+}
